@@ -1,7 +1,7 @@
 # Sunflower Land Data Tracker
 
 A graphical application for tracking and visualizing resources in Sunflower Land.
-
+![Demo](data/demo.gif)
 ## Dependencies
 
 This application uses the following libraries:
