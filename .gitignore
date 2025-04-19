@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+
+# Farm data files
+data/*/
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
